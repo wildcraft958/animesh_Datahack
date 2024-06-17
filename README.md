@@ -32,12 +32,10 @@ Evaluated the trained models using ROC AUC scores to measure their performance i
 - ROC AUC for xyz_vaccine: 0.8333404768508013<br>
 - ROC AUC for seasonal_vaccine: 0.8591162291109835<br>
 - Mean ROC AUC: 0.8462283529808924<br>
-<br>
 2. Logistic regression model performance with L1 regularization using ROC AUC scores.<br>
 - ROC AUC for xyz_vaccine: 0.8334121221289361<br>
 - ROC AUC for seasonal_vaccine: 0.8591084671530168<br>
 - Mean ROC AUC: 0.8462602946409765<br>
-<br>
 3. Logistic regression model performance using with L2 regularization ROC AUC scores.<br>
 - ROC AUC for xyz_vaccine: 0.833341947574986<br>
 - ROC AUC for seasonal_vaccine: 0.8591156646049496<br>
